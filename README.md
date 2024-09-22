@@ -23,5 +23,3 @@ I am a full-stack developer and a master's student in computer science at the Un
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saikumar1767&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
