@@ -1,25 +1,25 @@
 # Sai Kumar Reddy Kasarla
 
-Software engineer focused on backend systems, distributed infrastructure, and data-intensive applications, with growing depth in AI systems and developer tooling.
+Software engineer building backend systems, data platforms, and developer tooling, with a growing focus on AI systems.
 
-I’m currently building internal risk and analytics systems at ExodusPoint Capital Management in New York, where I work on low-latency APIs, SQL performance, Python automation, and production workflows. Previously, I built product and platform software at TurboHire and OpenText across web, backend, and analytics-heavy systems.
+At ExodusPoint Capital Management, I work on internal risk and analytics systems, focusing on low-latency APIs, SQL performance, Python automation, and production workflows. Previously, I built product and platform software at TurboHire and OpenText across backend, web, and analytics-heavy systems.
 
-## What I’m strongest at
+## Strengths
 - Backend engineering with Java and Python
 - APIs, distributed systems, and data pipelines
 - Performance optimization and production reliability
-- Building practical AI applications on top of strong software foundations
+- Applying strong software foundations to AI-powered products
 
-## Selected projects
-- **Sentinel-Ops** — AI-powered DevSecOps assistant with FastAPI, LangGraph, ChromaDB, local LLM support, evaluation flows, and modular agent workflows
-- **RenewableEnergyAnalytics** — full-stack analytics platform with React, Python, OAuth 2.0, Docker, CI/CD, and LLM-based insights
-- **Event Search Web and iOS App** — search platform with Flask APIs, web/iOS clients, deployment, caching, and pagination
+## Selected Projects
+- **Sentinel-Ops** — DevSecOps assistant using LLM workflows, retrieval, and evaluation pipelines to support security and operations use cases
+- **RenewableEnergyAnalytics** — full-stack analytics platform with React, Python, OAuth 2.0, Docker, CI/CD, and LLM-based summaries
+- **Event Search Web and iOS App** — search platform with Flask APIs, web and iOS clients, deployment, caching, and pagination
 
-## Currently interested in
-- AI infrastructure and model-serving systems
+## Interested in
+- AI infrastructure and model serving
 - RAG and agentic workflows
-- Real-time data and backend platforms
-- Developer tools for AI-powered products
+- Real-time data platforms
+- Developer tooling for AI products
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/saikumarkasarla)
