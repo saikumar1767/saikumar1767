@@ -11,7 +11,7 @@ At ExodusPoint Capital Management, I work on internal risk and analytics systems
 - Applying strong software foundations to AI-powered products
 
 ## Selected Projects
-- **Sentinel-Ops** — DevSecOps assistant using LLM workflows, retrieval, and evaluation pipelines to support security and operations use cases
+- **Sentinel-Ops** — DevSecOps assistant using LLM workflows, retrieval, and eval pipelines to support security and operations use cases
 - **RenewableEnergyAnalytics** — full-stack analytics platform with React, Python, OAuth 2.0, Docker, CI/CD, and LLM-based summaries
 - **Event Search Web and iOS App** — search platform with Flask APIs, web and iOS clients, deployment, caching, and pagination
 
